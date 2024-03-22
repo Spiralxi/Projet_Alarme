@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.22.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group2" />
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_7396" Alignment="Left" TypographyId="Typography_01">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_5DJJ" Alignment="Center" TypographyId="Typography_01">
+        <Translation Language="GB">&lt;s&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_LOUN" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">3</Translation>
+      </Text>
+      <Text Id="__SingleUse_YE0W" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">2</Translation>
+      </Text>
+      <Text Id="__SingleUse_2O02" Alignment="Left" TypographyId="Typography_00">
+        <Translation Language="GB">1</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="80" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_00" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography_01" Font="verdanab.ttf" Size="15" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z, ,C" WildcardCharacterRanges="0-9" />
+  </Typographies>
+</TextDatabase>

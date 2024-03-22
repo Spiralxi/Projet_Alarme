@@ -1,0 +1,15 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+../../TouchGFX/generated/gui_generated/include/gui_generated/screen1_screen/Screen1ViewBase.hpp:26:18:virtual void Screen1ViewBase::action1()	1
+C:/TouchGFXProjects/Projet_IOT_Alarme/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:15:6:virtual void Screen1View::tearDownScreen()	1
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:12:13:Screen1View::~Screen1View()	1
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:12:13:virtual Screen1View::~Screen1View()	1
+C:/TouchGFXProjects/Projet_IOT_Alarme/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:5:1:Screen1View::Screen1View()	1
+C:/TouchGFXProjects/Projet_IOT_Alarme/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:10:6:virtual void Screen1View::setupScreen()	1
+C:/TouchGFXProjects/Projet_IOT_Alarme/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:35:6:void Screen1View::updateTextCode()	1
+C:/TouchGFXProjects/Projet_IOT_Alarme/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:20:6:virtual void Screen1View::button1Clicked()	1
+C:/TouchGFXProjects/Projet_IOT_Alarme/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:25:6:virtual void Screen1View::button2Clicked()	1
+C:/TouchGFXProjects/Projet_IOT_Alarme/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:30:6:virtual void Screen1View::button3Clicked()	1
+C:/TouchGFXProjects/Projet_IOT_Alarme/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:53:6:void Screen1View::displayValidationResult(bool)	2
+C:/TouchGFXProjects/Projet_IOT_Alarme/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:42:6:virtual void Screen1View::ButtonValidateClicked()	4

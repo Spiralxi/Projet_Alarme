@@ -1,0 +1,3 @@
+../Application/User/Core/global.c:14:6:delay_us	0	static
+../Application/User/Core/global.c:6:6:trigger_HCSR04	8	static
+../Application/User/Core/global.c:19:7:getDistance	0	static
